@@ -4,9 +4,29 @@
 
       body {
         height: 100vh;
-        background-color: #d2d5da;
+        background-color: #f8faf8;
         color: #030616;
         font-family: "Inter", sans-serif;
+        margin: 0;
+        text-align: center;
+      }
+
+      div.track{
+        text-align: center;
+      }
+
+      ol.myOL{
+        display: inline-block;
+        text-align: left;
+      }
+
+      div.return{
+        text-align: center;
+      }
+
+      ul.myUL{
+        display: inline-block;
+        text-align: left;
       }
 
       a{
